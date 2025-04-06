@@ -48,4 +48,3 @@ Run the full notebook on Google Colab: [Open in Colab](https://colab.research.go
 - Arnav Gurha  
 - Ben Mendoza  
 - Teo Imoto-Tar  
-- Project for DataHacks25
