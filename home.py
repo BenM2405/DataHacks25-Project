@@ -16,13 +16,12 @@ st.sidebar.markdown('# Main Page 🙂')
 st.write("# Welcome to the ERC Enthusiasts Project for Datahacks 2025! 👋")
 
 
-
 st.markdown(
     """
     In regards to the theme "Popular Culture" we decided on a project that focuses
-    on the composition of Pokémon Soundtracks. Specifically, we trained a model to
-    guess what genre and culture each games songs were based on. The model we used
-    is called the Audio Spectagram Transformer Extractor (AST Extractor).
+    on the composition of Pokémon Soundtracks. Specifically, we employed the Audio 
+    Spectrogram Transformer (AST) to embed the music tracks and analyze the 
+    relationships between their embeddings." 
     """
 )
 
