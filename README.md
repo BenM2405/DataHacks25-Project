@@ -31,15 +31,13 @@ We used the Audio Spectrogram Transformer (AST) — a model trained on large-sca
    - Generated a 6×6 distance matrix representing musical proximity
 
 ## Dataset  
-You can access our audio dataset here:  
-[Google Drive Link](https://drive.google.com/drive/folders/1pLK22UMmumJhxEQrM3GIX7nnM0j5KPew?usp=sharing)
+You can access our audio dataset here: [Google Drive Link](https://drive.google.com/drive/folders/1pLK22UMmumJhxEQrM3GIX7nnM0j5KPew?usp=sharing)
 
 - Pokémon OSTs grouped by game region  
 - Real-world cultural tracks grouped by country
 
 ## Notebook  
-Run the full notebook on Google Colab:  
-[Open in Colab](https://colab.research.google.com/drive/1EgGUgF4dFQEHhzJy02_lGMBuWHIbU7QN?usp=sharing)
+Run the full notebook on Google Colab: [Open in Colab](https://colab.research.google.com/drive/1EgGUgF4dFQEHhzJy02_lGMBuWHIbU7QN?usp=sharing)
 
 ## Tech Stack
 - Python, PyTorch, Librosa, Pandas  
