@@ -34,6 +34,11 @@ with c1:
 with c2:
     st.image('data/Scatterplot.png', caption='Clusters Indicate Relation')
 
+ 
+
+
+st.image('data/FinalData.png', caption='Final Comparison')
+
 
 
 alola_img = get_base64_image("data/Alola.png")
