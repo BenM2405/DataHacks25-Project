@@ -15,13 +15,27 @@ st.sidebar.success("Welcome to our Pokémon Audio Analysis Project!")
 st.sidebar.markdown('# Main Page 🙂')
 st.write("# Welcome to the ERC Enthusiasts Project for Datahacks 2025! 👋")
 
-
 st.markdown(
     """
-    In regards to the theme "Popular Culture" we decided on a project that focuses
-    on the composition of Pokémon Soundtracks. Specifically, we employed the Audio 
-    Spectrogram Transformer (AST) to embed the music tracks and analyze the 
-    relationships between their embeddings." 
+    # Pokémon Soundtrack Embeddings  
+    ### Theme: **Popular Culture**
+
+    For this year's **DataHacks** theme of *Popular Culture*, we explored the cultural and stylistic composition of music from the Pokémon game series.
+
+    ---
+    ## Goal
+
+    Our objective was to determine how the soundtracks from each Pokémon region (e.g., *Unova*, *Johto*, *Galar*) musically relate to **real-world cultures**.
+
+    *Do Kalos tracks sound like France? Is Alola sonically close to Hawaii?*  
+    We used deep audio embeddings to find out.
+
+    ---
+    ## Approach
+
+    We used the **Audio Spectrogram Transformer (AST)** — a model trained on large-scale audio datasets — to embed soundtrack clips from both Pokémon regions and real-world country samples into a shared high-dimensional space.
+
+    By analyzing the spatial relationships between these embeddings, we aimed to uncover sonic similarities between Pokémon regions and their real-world cultural inspirations.
     """
 )
 
