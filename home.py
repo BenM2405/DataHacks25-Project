@@ -22,7 +22,7 @@ st.markdown(
     For this year's **DataHacks** theme of *Popular Culture*, we explored the cultural and stylistic composition of music from the Pokémon game series.
 
     ---
-    ## Goal
+    ### Goal
 
     Our objective was to determine how the soundtracks from each Pokémon region (e.g., *Unova*, *Johto*, *Galar*) musically relate to **real-world cultures**.
 
@@ -30,7 +30,7 @@ st.markdown(
     We used deep audio embeddings to find out.
 
     ---
-    ## Approach
+    ### Approach
 
     We used the **Audio Spectrogram Transformer (AST)** — a model trained on large-scale audio datasets — to embed soundtrack clips from both Pokémon regions and real-world country samples into a shared high-dimensional space.
 
