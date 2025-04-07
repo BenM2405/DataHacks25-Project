@@ -17,7 +17,6 @@ st.write("# Welcome to the ERC Enthusiasts Project for Datahacks 2025! 👋")
 
 st.markdown(
     """
-    # Pokémon Soundtrack Embeddings  
     ### Theme: **Popular Culture**
 
     For this year's **DataHacks** theme of *Popular Culture*, we explored the cultural and stylistic composition of music from the Pokémon game series.
